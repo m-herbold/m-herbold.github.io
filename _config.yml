@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Meagan Herbold"
 title_separator          : "-"
 name                     : &name "Meagan Herbold"
-# description              : &description " Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description ""   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://m-herbold.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/profile.jpeg"
+  avatar           : "/files/profile.jpeg"
   name             : "Meagan Herbold"
   pronouns         : "she/her"  
   bio              : "Ph.D. Candidate"
@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Meagan-Herbold?ev=hdr_xprf"
+  researchgate     : "https://www.researchgate.net/profile/Meagan-Herbold"
   scopus           : # URL
   zotero           : # URL
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  # bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
