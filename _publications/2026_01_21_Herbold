@@ -1,0 +1,13 @@
+---
+title: "Generation of Lognormal Synthetic Lyman-alpha Forest Spectra for P1D Analysis"
+collection: publications
+category: manuscripts
+permalink: /publication/2026_01_21_Herbold
+excerpt: 'The one-dimensional flux power spectrum (P1D) of the Lyman-α forest probes small-scale structure in the intergalactic medium (IGM) and is therefore sensitive to a variety of cosmological and astrophysical parameters. These include the amplitude and shape of the matter power spectrum, the thermal history of the IGM, the sum of neutrino masses, and potential small-scale fluctuations due to the nature of dark matter. However, P1D is also highly sensitive to observational and instrumental systematics, making accurate synthetic spectra essential for validating analyses and quantifying these effects, especially in high-volume surveys like the Dark Energy Spectroscopic Instrument (DESI). We present an efficient lognormal mock framework for generating one-dimensional Lyman-α forest spectra tailored for P1D analysis. Our method captures the redshift evolution of the mean transmitted flux and the scale-dependent shape and amplitude of the one-dimensional flux power spectrum by tuning Gaussian field correlations and transformation parameters. Across the DESI Early Data Release (EDR) redshift range (2.0 ≤ z ≤ 3.8), and a wide range of scales (10-4 s km-1 ≤ k ≤ 1.0 s km-1), our mocks recover the mean flux evolution with redshift to sub-percent accuracy, and the P1D at the percent level. Additionally, we discuss potential extensions of this framework, such as the incorporation of astrophysical contaminants, continuum uncertainties, and instrumental effects. Such improvements would expand its utility in ongoing and upcoming surveys and enable a broader range of validation efforts and systematics studies for P1D inference and precision cosmology.'
+date: 2026-01-21
+paperurl: 'https://m-herbold.github.io/files/Herbold_et_al_2026.pdf'
+bibtexurl: 'https://academicpages.github.io/files/Herbold_et_al_2026.bib'
+citation: 'Herbold, M., Karaçaylı, N. G., & Martini, P. (2026). &quot;Generation of lognormal synthetic Lyman-alpha forest spectra for P1 D analysis.&quot; <i>Journal of Cosmology and Astroparticle Physics</i>, 2026(01), 031.'
+
+---
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
